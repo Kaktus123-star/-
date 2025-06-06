@@ -1,0 +1,29 @@
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe.config
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+C:\Users\super\OneDrive\Рабочий стол\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe.config
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csprojResolveAssemblyReference.cache
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+F:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.Cache
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.AssemblyReference.cache
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Properties.Resources.resources
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.GenerateResource.cache
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.csproj.CoreCompileInputs.cache
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.exe
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.pdb
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe.config
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.exe
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\bin\Debug\КУРСАЧ.pdb
+H:\КУРСАЧ\КУРСАЧ\КУРСАЧ\obj\Debug\КУРСАЧ.Form1.resources
